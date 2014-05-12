@@ -1,0 +1,10 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\bin\Debug\Shopper Solution.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\bin\Debug\Shopper Solution.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\bin\Debug\Shopper Solution.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\bin\Debug\Shopper Solution.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\obj\Debug\Shopper_Solution.Form1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\obj\Debug\Shopper_Solution.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\obj\Debug\Shopper Solution.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\obj\Debug\Shopper Solution.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\obj\Debug\Shopper Solution.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Shopper Solution\Shopper Solution\obj\Debug\Shopper Solution.pdb

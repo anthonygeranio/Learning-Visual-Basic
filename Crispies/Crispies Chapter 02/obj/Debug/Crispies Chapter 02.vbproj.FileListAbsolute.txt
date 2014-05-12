@@ -1,0 +1,11 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\bin\Debug\Crispies Chapter 02.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\bin\Debug\Crispies Chapter 02.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\bin\Debug\Crispies Chapter 02.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\bin\Debug\Crispies Chapter 02.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies_Chapter_02.Form1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies_Chapter_02.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies Chapter 02.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies Chapter 02.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies Chapter 02.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies Chapter 02.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Crispies Chapter 02\Crispies Chapter 02\obj\Debug\Crispies_Chapter_02.SplashScreen1.resources

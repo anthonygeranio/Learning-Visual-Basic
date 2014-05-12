@@ -1,0 +1,11 @@
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\bin\Debug\CarShoppers.exe.config
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\bin\Debug\CarShoppers.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\bin\Debug\CarShoppers.pdb
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\bin\Debug\CarShoppers.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.Form1.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.Resources.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.pdb
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\CarShoppers\CarShoppers\obj\Debug\CarShoppers.vbprojResolveAssemblyReference.cache

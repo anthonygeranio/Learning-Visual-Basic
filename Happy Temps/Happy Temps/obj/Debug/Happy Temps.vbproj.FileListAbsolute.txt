@@ -1,0 +1,10 @@
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\bin\Debug\Happy Temps.exe.config
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\bin\Debug\Happy Temps.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\bin\Debug\Happy Temps.pdb
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\bin\Debug\Happy Temps.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\obj\Debug\Happy_Temps.Form1.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\obj\Debug\Happy_Temps.Resources.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\obj\Debug\Happy Temps.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\obj\Debug\Happy Temps.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\obj\Debug\Happy Temps.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Happy Temps\Happy Temps\obj\Debug\Happy Temps.pdb

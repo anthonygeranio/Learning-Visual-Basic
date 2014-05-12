@@ -1,0 +1,11 @@
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\bin\Debug\NoveltyWarehouse.exe.config
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\bin\Debug\NoveltyWarehouse.exe
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\bin\Debug\NoveltyWarehouse.pdb
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\bin\Debug\NoveltyWarehouse.xml
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.Form1.resources
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.Resources.resources
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.SplashScreen1.resources
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.exe
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.xml
+\\quinnipiac.edu\filespace\users\asgeranio\visual studio 2013\Projects\NoveltyWarehouse\NoveltyWarehouse\obj\Debug\NoveltyWarehouse.pdb

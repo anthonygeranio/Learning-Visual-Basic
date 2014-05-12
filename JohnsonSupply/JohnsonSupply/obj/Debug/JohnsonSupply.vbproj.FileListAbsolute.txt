@@ -1,0 +1,11 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\bin\Debug\JohnsonSupply.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\bin\Debug\JohnsonSupply.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\bin\Debug\JohnsonSupply.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\bin\Debug\JohnsonSupply.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.radioWholesaler.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\JohnsonSupply\JohnsonSupply\obj\Debug\JohnsonSupply.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\bin\Debug\Manufacturing.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\obj\Debug\Manufacturing.Form1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\obj\Debug\Manufacturing.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\obj\Debug\Manufacturing.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\bin\Debug\Manufacturing.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\bin\Debug\Manufacturing.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\bin\Debug\Manufacturing.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\obj\Debug\Manufacturing.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\obj\Debug\Manufacturing.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Manufacturing\Manufacturing\obj\Debug\Manufacturing.pdb

@@ -1,0 +1,12 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise Chapter 03.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise Chapter 03.vbprojResolveAssemblyReference.cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\bin\Debug\Excercise Tracker.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\bin\Debug\Excercise Tracker.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\bin\Debug\Excercise Tracker.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\bin\Debug\Excercise Tracker.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise_Tracker.Form1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise_Tracker.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise_Tracker.SplashScreen1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise Tracker.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise Tracker.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Excercise Chapter 03\Excercise Chapter 03\obj\Debug\Excercise Tracker.pdb

@@ -1,0 +1,12 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\bin\Debug\Chapter 2 BMI.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\bin\Debug\Chapter 2 BMI.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\bin\Debug\Chapter 2 BMI.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\bin\Debug\Chapter 2 BMI.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter_2_BMI.Form1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter_2_BMI.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter 2 BMI.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter 2 BMI.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter 2 BMI.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter 2 BMI.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter_2_BMI.SplashScreen1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Chapter 2 BMI\Chapter 2 BMI\obj\Debug\Chapter 2 BMI.vbprojResolveAssemblyReference.cache

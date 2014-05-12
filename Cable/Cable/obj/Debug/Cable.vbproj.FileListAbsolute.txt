@@ -1,0 +1,11 @@
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\bin\Debug\Cable.exe.config
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\bin\Debug\Cable.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\bin\Debug\Cable.pdb
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\bin\Debug\Cable.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.Form1.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.Resources.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.pdb
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\Cable\Cable\obj\Debug\Cable.vbprojResolveAssemblyReference.cache

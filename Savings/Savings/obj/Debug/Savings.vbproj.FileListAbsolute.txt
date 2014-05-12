@@ -1,0 +1,10 @@
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\bin\Debug\Savings.exe.config
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\bin\Debug\Savings.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\bin\Debug\Savings.pdb
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\bin\Debug\Savings.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\obj\Debug\Savings.Form1.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\obj\Debug\Savings.Resources.resources
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\obj\Debug\Savings.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\obj\Debug\Savings.exe
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\obj\Debug\Savings.xml
+\\quinnipiac.edu\filespace\Users\asgeranio\CIS 245\Savings\Savings\obj\Debug\Savings.pdb

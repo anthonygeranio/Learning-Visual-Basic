@@ -1,0 +1,11 @@
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe.config
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.vbprojResolveAssemblyReference.cache
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Form1.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Resources.resources
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.vbproj.GenerateResource.Cache
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.xml
+\\quinnipiac.edu\profilemanagement\SchoolOfBusiness\asgeranio\Desktop\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.pdb
